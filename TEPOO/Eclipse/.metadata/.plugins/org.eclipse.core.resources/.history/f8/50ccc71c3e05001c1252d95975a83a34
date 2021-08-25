@@ -1,0 +1,28 @@
+package unip;
+
+import javax.swing.JOptionPane;
+
+public class EntradaTela {
+
+		public static void main(String[] args) {
+			
+			//Váriaveis
+			String aux; 
+			double nota1,nota2,trabalho,media = 0.0; 
+			
+	
+			aux = JOptionPane.showInputDialog("Digite a primeira nota: ");
+			nota1=Double.parseDouble(aux);
+			
+
+			aux = JOptionPane.showInputDialog("Digite a primeira nota: ");
+			nota2=Double.parseDouble(aux);
+			
+
+			aux = JOptionPane.showInputDialog("Digite a primeira nota: ");
+			trabalho=Double.parseDouble(aux);
+			
+			
+			media = (nota1+nota2+trabalho)/3;
+		}
+}

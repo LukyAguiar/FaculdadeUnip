@@ -1,0 +1,23 @@
+package unip;
+
+import java.util.Scanner;
+
+public class EntradaDados {
+
+	public static void main(String[] args) {
+		
+		double nota1, nota2, trabalho, media;
+		
+		
+		try
+		{
+			System.out.print("Entre com a nota1");
+			Scanner entrada = new Scanner(System.in);
+			
+		}
+		catch("1") {
+			
+		};
+	}
+	
+}

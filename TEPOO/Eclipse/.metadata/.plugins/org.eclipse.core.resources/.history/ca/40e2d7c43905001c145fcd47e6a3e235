@@ -1,0 +1,42 @@
+package unip;
+
+import java.util.Scanner;
+
+public class EntradaDados {
+
+	public static void main(String[] args) {
+		
+		//Variaveis
+		double nota1, nota2, trabalho, media;
+		//Declarando Leitor
+		Scanner entrada = new Scanner(System.in);
+		
+		try
+		{
+			//
+			
+			System.out.print("Entre com a primeira nota: ");
+			nota1 = entrada.nextDouble();
+			if(nota1 > 10)
+			{
+				System.out.println("Uma nota não pode ser maior que 10,Refaça");
+				System.exit(0);
+			}
+			else {
+				System.out.println("Entre com a segunda nota: ");
+				nota2 = entrada.nextDouble();
+			}
+			System.out.println("Entre com a nota do Trabalho: ");
+			trabalho = entrada.nextDouble();
+			
+			media = (nota1+nota2+trabalho)/3;
+			
+			System.out.printf("Media do aluno : " + media);
+			entrada.close();
+		}
+		catch(NumberFormatException e) {
+			System.out.println("Apenas Números, Por favor");
+		};
+	}
+	
+}

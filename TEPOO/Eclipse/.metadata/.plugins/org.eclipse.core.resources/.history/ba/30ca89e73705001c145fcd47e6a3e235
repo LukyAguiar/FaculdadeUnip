@@ -1,0 +1,25 @@
+package unip;
+
+import java.util.Scanner;
+
+public class EntradaDados {
+
+	public static void main(String[] args) {
+		
+		double nota1, nota2, trabalho, media;
+		Scanner entrada = new Scanner(System.in);
+		
+		try
+		{
+			System.out.print("Entre com a primeira nota: ");
+			nota1 = entrada.nextDouble();
+			System.out.println("Entre com a segunda nota: ");
+			nota2 = entrada.nextDouble();
+			
+		}
+		catch() {
+			
+		};
+	}
+	
+}
