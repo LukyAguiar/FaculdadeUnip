@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\bin\Debug\Forms.exe.config
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\bin\Debug\Forms.exe
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\bin\Debug\Forms.pdb
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.exe
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.pdb
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.FrmPrincipal.resources
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.FrmCadastroHospedes.resources
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.FrmRelatorios.resources
+C:\Users\Lucas\Desktop\FaculdadeUnip\POO-II\TutorialFormsELogin\Forms\obj\Debug\Forms.FrmLogin.resources
