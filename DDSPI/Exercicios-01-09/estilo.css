@@ -2,10 +2,12 @@
 
 marquee{
 color:#FF1144 ;
+text-align: center;
 }
 
-.div{
+.divex07{
     text-align: center;
+    position: center;
 }
 
 
